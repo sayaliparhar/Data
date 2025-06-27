@@ -8,3 +8,5 @@ git remote -v
 git remote add origin 
 git remote remove origin 
 git push origin <branch:name>
+git clone
+git pull
