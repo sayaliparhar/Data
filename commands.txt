@@ -10,3 +10,5 @@ git remote remove origin
 git push origin <branch:name>
 git clone
 git pull
+git branch
+git branch <branch name>
