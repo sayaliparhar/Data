@@ -12,3 +12,4 @@ git clone
 git pull
 git branch
 git branch <branch name>
+git branch --help
